@@ -1,13 +1,23 @@
-# Summary
-* ServiceLine
-* Class: modelling
+# merrill_model
 
-This repo contains some modelling tools.
+<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
+    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
+</a>
 
-## Components:
-* ...
+Standard model package
 
-## TODO:
-* NN: categorical features treatment
-* NN: early stopping
-* NN: dynamic learning parameters
+## STATUS:
+
+On hold
+
+## MIRO
+
+<a target="_blank" href="enter miro link">
+    Miro
+</a>
+
+## AZURE
+
+<a target="_blank" href="enter azure link">
+    Azure
+</a>

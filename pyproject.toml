@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "merrill_model"
+version = "0.0.1"
+description = "Standard model package"
+authors = [
+  "edazizovv",
+]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "merrill_model"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
